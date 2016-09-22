@@ -1,9 +1,7 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
-
-Name: `NAME`
-
-ONID ID: `ONID_ID`
+Name: `Kai Liu'
+ONID ID: `932-783-468`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course.  It should be very straightforward.  It has two parts.
 
